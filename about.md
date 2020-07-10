@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-How are ya?
+How are ya doin'?
 
 ### More Information
 
